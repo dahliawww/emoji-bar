@@ -46,26 +46,6 @@ npm run build
 npm run preview
 ```
 
-## Deploy to GitHub Pages
-
-1. Install gh-pages:
-
-```bash
-npm install --save-dev gh-pages
-```
-
-2. Deploy to GitHub Pages:
-
-```bash
-npm run deploy
-```
-
-3. Enable GitHub Pages in your repository settings:
-   - Go to Settings → Pages
-   - Source: Deploy from a branch
-   - Branch: `gh-pages` / `root`
-   - Your site will be available at: `https://dahliawww.github.io/emoji-bar/`
-
 ## Project Structure
 
 ```
