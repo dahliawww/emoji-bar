@@ -117,7 +117,10 @@ function App() {
             Sorrow Happiness
           </h1>
           <div className="description">
-            <p>This project inspired by realfood.gov</p>
+            <p>
+              This project inspired by{" "}
+              <a href="https://realfood.gov">realfood.gov</a>
+            </p>
             <p>create by my illustrator and Cursor</p>
           </div>
         </div>

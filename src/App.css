@@ -112,6 +112,15 @@
   margin: 0.5rem 0;
 }
 
+.description a {
+  color: #d6336c;
+  text-decoration: none;
+}
+
+.description a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 768px) {
   .bar {
     width: 90%;
