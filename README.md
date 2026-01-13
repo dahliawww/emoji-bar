@@ -2,6 +2,8 @@
 
 A beautiful React project featuring an interactive emoji bar inspired by [realfood.gov](https://realfood.gov/). Hover over the badge to see random emojis appear with smooth animations and color transitions.
 
+**Live Demo:** [https://emoji-bar.vercel.app](https://emoji-bar.vercel.app)
+
 ## Features
 
 - 🎨 Interactive emoji bar with hover effects
@@ -12,6 +14,8 @@ A beautiful React project featuring an interactive emoji bar inspired by [realfo
 - ⚡ Built with React 18 and Vite
 
 ## Demo
+
+**Preview:** [https://emoji-bar.vercel.app](https://emoji-bar.vercel.app)
 
 Hover over the badge to see:
 
