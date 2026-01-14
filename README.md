@@ -53,7 +53,7 @@ npm run preview
 ## Project Structure
 
 ```
-emoji-header/
+cursor-emojibar/
 ├── src/
 │   ├── components/
 │   │   ├── OfficialBanner.jsx
